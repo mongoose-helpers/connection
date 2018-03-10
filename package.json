@@ -1,6 +1,6 @@
 {
   "name": "mongoose-helpers-connection",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "returns a mongoose connection promise",
   "author": "dan entous",
   "license": "MIT",

@@ -117,8 +117,8 @@ app.db.model( 'User' )
 [MIT License][mit-license]
 
 [mit-license]: https://raw.githubusercontent.com/mongoose-helpers/connection/master/license.txt
-[npm-image]: https://img.shields.io/npm/v/mongoose-helpers/connection.svg
-[npm-url]: https://www.npmjs.com/package/mongoose-helpers/connection
+[npm-image]: https://img.shields.io/npm/v/mongoose-helpers-connection.svg
+[npm-url]: https://www.npmjs.com/package/mongoose-helpers-connection
 [nsp-image]: https://nodesecurity.io/orgs/mongoose-helpers/projects/dc7a44de-aeeb-4b58-95b6-0eb341452f7f/badge
 [nsp-url]: https://nodesecurity.io/orgs/mongoose-helpers/projects/dc7a44de-aeeb-4b58-95b6-0eb341452f7f
 [travis-image]: https://travis-ci.org/mongoose-helpers/connection.svg?branch=master
