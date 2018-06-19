@@ -1,6 +1,6 @@
 {
   "name": "mongoose-helpers-connection",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "returns a mongoose connection promise",
   "author": "dan entous",
   "license": "MIT",
@@ -32,8 +32,8 @@
     "ghooks": "2.0.2"
   },
   "dependencies": {
-    "mongoose": "4.13.11",
-    "mongoose-events-event-logger": "0.1.0",
-    "mongoose-helpers-get-uri": "0.1.0"
+    "mongoose": "^4.13.11",
+    "mongoose-events-event-logger": "^0.1.1",
+    "mongoose-helpers-get-uri": "^0.1.1"
   }
 }
